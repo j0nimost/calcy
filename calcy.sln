@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcy", "calcy\calcy.csproj", "{B4C58D58-9A02-4153-8370-2F63D10D2AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcy.test", "calcy.test\calcy.test.csproj", "{76BF4BB2-2430-4C8A-B198-F81032FD8C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C58D58-9A02-4153-8370-2F63D10D2AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C58D58-9A02-4153-8370-2F63D10D2AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C58D58-9A02-4153-8370-2F63D10D2AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C58D58-9A02-4153-8370-2F63D10D2AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BF4BB2-2430-4C8A-B198-F81032FD8C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BF4BB2-2430-4C8A-B198-F81032FD8C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BF4BB2-2430-4C8A-B198-F81032FD8C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BF4BB2-2430-4C8A-B198-F81032FD8C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FA6C6D-C1E9-4710-B10F-439BA9D99D5E}
+	EndGlobalSection
+EndGlobal
