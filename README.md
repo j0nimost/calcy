@@ -1,6 +1,8 @@
 ## Calcy
 A simple cli math interpreter for the Dev.to blog posts.
 
+[![Build Status](https://app.travis-ci.com/j0nimost/calcy.svg?branch=main)](https://app.travis-ci.com/j0nimost/calcy)
+
 ### Find the Blog Posts Here
 - [Set Up](https://dev.to/j0nimost/implementing-a-math-interpreter-using-c-part1-2mf)
 - [Lexer and Test](https://dev.to/j0nimost/implementing-a-math-interpreter-using-c-part2-lexer-4i81)
