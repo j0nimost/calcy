@@ -30,7 +30,7 @@ namespace calcy
                     {
                         continue;
                     }
-                    Console.WriteLine(">> {0}", astObj.ToString());
+                    Console.WriteLine(">> {0}", astObj.Eval());
                 }
                 catch (Exception ex)
                 {
