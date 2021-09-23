@@ -1,0 +1,7 @@
+language: csharp
+mono: none
+dotnet: 3.10.0
+solution: sigma.sln
+script:
+  - dotnet build
+  - dotnet test
